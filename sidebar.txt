@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[prd:home|Door43 (prd)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-prd|d43-prd repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-prd/archive/master.zip|d43-prd.zip]]
+
+**Recent Changes**
+{{changes>ns = prd}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/prd|Ethnologue data]]
+
